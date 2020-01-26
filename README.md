@@ -4,7 +4,7 @@
 + VM Ware player 설치
 링크: [https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
 
-## Windows 용 Docker
+## Docker
 
 사전작업
 1. CPU 가상화기능 활성화
